@@ -71,7 +71,7 @@ The dataset contains the following features:
 - **Campaign Responses Clustered Column Chart:** Analyzes responses to different marketing campaigns.
 - **Campaign Response Rates Gauge Chart:** Displays overall customer engagement with marketing campaigns.
 
-### Additional Visualizations
+### Advance Visualizations
 
 - **Customer Segmentation by Age Group and Total Spending Stacked Bar Chart:** Segments customers by age groups and shows their total spending on different product categories.
 - **Correlation between Income and Total Spending Scatter Chart:** Analyzes the relationship between customer income and their spending habits.
